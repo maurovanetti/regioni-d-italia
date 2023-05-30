@@ -1,0 +1,66 @@
+{
+	"name": "EmiliaRomagna",
+	"plugin-id": "Sprite",
+	"sid": 138834943019978,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 1101,
+						"height": 1083,
+						"originX": 0,
+						"originY": 0,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 6973548,
+						"collisionPoly": {
+							"points": [
+								0.2945049954586747,
+								0.23591874422899356,
+								0.4037238873751131,
+								0.2511542012927056,
+								0.46843778383287804,
+								0.25346260387811637,
+								0.49750227066303143,
+								0.3444136657433058,
+								0.4552679382379645,
+								0.35480147737765483,
+								0.4182561307901912,
+								0.3111726685133885,
+								0.38646684831970907,
+								0.326869806094183,
+								0.31039963669391507,
+								0.2996306555863343,
+								0.2824704813805632,
+								0.27539242843952016
+							]
+						},
+						"useCollisionPoly": true,
+						"imagePoints": [
+							{
+								"name": "Badge",
+								"x": 0.3932788374205268,
+								"y": 0.283471837488458
+							}
+						],
+						"duration": 1
+					}
+				],
+				"sid": 369001367343776,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

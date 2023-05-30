@@ -1,0 +1,66 @@
+{
+	"name": "Lombardia",
+	"plugin-id": "Sprite",
+	"sid": 247267571831583,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 1101,
+						"height": 1083,
+						"originX": 0,
+						"originY": 0,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 3715373,
+						"collisionPoly": {
+							"points": [
+								0.2415985467756584,
+								0.14958448753462597,
+								0.28746594005449555,
+								0.11080332409972309,
+								0.3424159854677566,
+								0.09787626962142205,
+								0.36603088101725706,
+								0.11495844875346248,
+								0.36239782016348676,
+								0.17451523545706418,
+								0.41280653950953594,
+								0.24746075715604873,
+								0.29336966394187136,
+								0.2354570637119128,
+								0.27702089009990927,
+								0.27008310249307504,
+								0.23841961852861007,
+								0.2283010156971375
+							]
+						},
+						"useCollisionPoly": true,
+						"imagePoints": [
+							{
+								"name": "Badge",
+								"x": 0.3115349682107175,
+								"y": 0.18744228993536471
+							}
+						],
+						"duration": 1
+					}
+				],
+				"sid": 993641859102342,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

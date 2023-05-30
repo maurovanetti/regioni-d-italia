@@ -1,0 +1,32 @@
+{
+    "c2array": true,
+    "size": [
+        2,
+        3,
+        1
+    ],
+    "data": [
+        [
+            [
+                "Duomo di Milano"
+            ],
+            [
+                "Mole Antonelliana"
+            ],
+            [
+                "Vento di Bora"
+            ]
+        ],
+        [
+            [
+                "Lom"
+            ],
+            [
+                "Pie"
+            ],
+            [
+                "Fri"
+            ]
+        ]
+    ]
+}

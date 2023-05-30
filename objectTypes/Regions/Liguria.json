@@ -1,0 +1,56 @@
+{
+	"name": "Liguria",
+	"plugin-id": "Sprite",
+	"sid": 598526176045096,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 1101,
+						"height": 1083,
+						"originX": 0,
+						"originY": 0,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 9396235,
+						"collisionPoly": {
+							"points": [
+								0.22888283378746588,
+								0.2880886426592796,
+								0.28928247048137967,
+								0.2788550323176363,
+								0.3342415985467754,
+								0.3250230840258541,
+								0.17620345140781105,
+								0.3356417359187441
+							]
+						},
+						"useCollisionPoly": true,
+						"imagePoints": [
+							{
+								"name": "Badge",
+								"x": 0.24795640326975477,
+								"y": 0.2945521698984303
+							}
+						],
+						"duration": 1
+					}
+				],
+				"sid": 356504253596157,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

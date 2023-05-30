@@ -1,0 +1,64 @@
+{
+	"name": "TrentinoAltoAdige",
+	"plugin-id": "Sprite",
+	"sid": 198840551920079,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 1101,
+						"height": 1083,
+						"originX": 0,
+						"originY": 0,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 3121841,
+						"collisionPoly": {
+							"points": [
+								0.359673024523161,
+								0.08125577100646354,
+								0.46548592188919186,
+								0.05540166204986153,
+								0.4741144414168929,
+								0.09972299168975071,
+								0.43596730245231596,
+								0.10849492151431188,
+								0.45049954586739327,
+								0.14589104339796866,
+								0.41643960036330685,
+								0.15697137580794043,
+								0.38510445049954656,
+								0.1809787626962143,
+								0.35785649409627657,
+								0.15835641735918715
+							]
+						},
+						"useCollisionPoly": true,
+						"imagePoints": [
+							{
+								"name": "Badge",
+								"x": 0.40417801998183467,
+								"y": 0.10249307479224377
+							}
+						],
+						"duration": 1
+					}
+				],
+				"sid": 314312393242771,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

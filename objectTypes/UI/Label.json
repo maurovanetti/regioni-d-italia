@@ -1,0 +1,23 @@
+{
+	"name": "Label",
+	"plugin-id": "Text",
+	"sid": 988243726802544,
+	"isGlobal": false,
+	"instanceVariables": [
+		{
+			"name": "Region",
+			"type": "string",
+			"desc": "Lom, Pie, Laz, Val etc.",
+			"show": true,
+			"sid": 835604701986874
+		}
+	],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Pin",
+			"name": "Pin",
+			"sid": 988247555689922
+		}
+	],
+	"effectTypes": []
+}

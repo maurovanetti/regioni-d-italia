@@ -1,0 +1,64 @@
+{
+	"name": "Veneto",
+	"plugin-id": "Sprite",
+	"sid": 154572435459493,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 1101,
+						"height": 1083,
+						"originX": 0,
+						"originY": 0,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 9878403,
+						"collisionPoly": {
+							"points": [
+								0.3651226158038154,
+								0.195752539242844,
+								0.43642143505903713,
+								0.14404432132963987,
+								0.45231607629427756,
+								0.0904893813481071,
+								0.5013623978201637,
+								0.09741458910433974,
+								0.47774750227066276,
+								0.13111726685133876,
+								0.5181653042688468,
+								0.18467220683287155,
+								0.4795640326975481,
+								0.25115420129270555,
+								0.4214350590372393,
+								0.25623268698060936
+							]
+						},
+						"useCollisionPoly": true,
+						"imagePoints": [
+							{
+								"name": "Badge",
+								"x": 0.43869209809264303,
+								"y": 0.18928901200369344
+							}
+						],
+						"duration": 1
+					}
+				],
+				"sid": 561566720251094,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

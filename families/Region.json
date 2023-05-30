@@ -1,0 +1,44 @@
+{
+	"name": "Region",
+	"plugin-id": "Sprite",
+	"sid": 857660384998068,
+	"instanceVariables": [
+		{
+			"name": "Name",
+			"type": "string",
+			"desc": "",
+			"show": true,
+			"sid": 995539503532486
+		}
+	],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Tween",
+			"name": "Tween",
+			"sid": 969372126005225
+		}
+	],
+	"effectTypes": [],
+	"members": [
+		"EmiliaRomagna",
+		"FriuliVeneziaGiulia",
+		"Liguria",
+		"Lombardia",
+		"Piemonte",
+		"TrentinoAltoAdige",
+		"ValledAosta",
+		"Veneto",
+		"Abruzzo",
+		"Basilicata",
+		"Campania",
+		"Calabria",
+		"Lazio",
+		"Marche",
+		"Puglia",
+		"Molise",
+		"Sardegna",
+		"Sicilia",
+		"Toscana",
+		"Umbria"
+	]
+}

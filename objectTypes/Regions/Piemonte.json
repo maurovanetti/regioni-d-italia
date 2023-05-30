@@ -1,0 +1,66 @@
+{
+	"name": "Piemonte",
+	"plugin-id": "Sprite",
+	"sid": 258469181308415,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 1101,
+						"height": 1083,
+						"originX": 0,
+						"originY": 0,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 8053252,
+						"collisionPoly": {
+							"points": [
+								0.22161671207992728,
+								0.1163434903047091,
+								0.24931880108991736,
+								0.14958448753462597,
+								0.24704813805631234,
+								0.21606648199445985,
+								0.27792915531335105,
+								0.26915974145891036,
+								0.20890099909173437,
+								0.29362880886426573,
+								0.20390554041780193,
+								0.32317636195752525,
+								0.15258855585831058,
+								0.32317636195752547,
+								0.11989100817438689,
+								0.23222530009233605,
+								0.19073569482288824,
+								0.18721144967682368
+							]
+						},
+						"useCollisionPoly": true,
+						"imagePoints": [
+							{
+								"name": "Badge",
+								"x": 0.1880108991825613,
+								"y": 0.23730378578024008
+							}
+						],
+						"duration": 1
+					}
+				],
+				"sid": 263593974137709,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

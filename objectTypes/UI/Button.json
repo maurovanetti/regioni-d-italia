@@ -1,0 +1,16 @@
+{
+	"name": "Button",
+	"plugin-id": "Button",
+	"sid": 186342212099294,
+	"isGlobal": false,
+	"instanceVariables": [
+		{
+			"name": "Role",
+			"type": "string",
+			"desc": "",
+			"show": true,
+			"sid": 463824839316712
+		}
+	],
+	"behaviorTypes": []
+}

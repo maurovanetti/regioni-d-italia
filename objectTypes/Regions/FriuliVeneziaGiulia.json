@@ -1,0 +1,56 @@
+{
+	"name": "FriuliVeneziaGiulia",
+	"plugin-id": "Sprite",
+	"sid": 167813124674331,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 1101,
+						"height": 1083,
+						"originX": 0,
+						"originY": 0,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 7714094,
+						"collisionPoly": {
+							"points": [
+								0.49227974568574107,
+								0.09787626962142199,
+								0.5544959128065401,
+								0.10526315789473684,
+								0.561307901907357,
+								0.19021237303785796,
+								0.4831970935513167,
+								0.15835641735918737
+							]
+						},
+						"useCollisionPoly": true,
+						"imagePoints": [
+							{
+								"name": "Badge",
+								"x": 0.5131698455949137,
+								"y": 0.13573407202216067
+							}
+						],
+						"duration": 1
+					}
+				],
+				"sid": 357677918812493,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

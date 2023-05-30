@@ -1,0 +1,56 @@
+{
+	"name": "ValledAosta",
+	"plugin-id": "Sprite",
+	"sid": 932991231500495,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 1101,
+						"height": 1083,
+						"originX": 0,
+						"originY": 0,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 6996448,
+						"collisionPoly": {
+							"points": [
+								0.12352406902815619,
+								0.17174515235457075,
+								0.19346049046321512,
+								0.1532779316712835,
+								0.19709355131698444,
+								0.19113573407202236,
+								0.14350590372388733,
+								0.205909510618652
+							]
+						},
+						"useCollisionPoly": true,
+						"imagePoints": [
+							{
+								"name": "Badge",
+								"x": 0.16439600363306087,
+								"y": 0.17636195752539244
+							}
+						],
+						"duration": 1
+					}
+				],
+				"sid": 287107760101265,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}
