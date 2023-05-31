@@ -1,0 +1,103 @@
+{
+	"name": "Credits Screen",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "Button",
+					"sid": 294250785669592
+				},
+				{
+					"id": "compare-instance-variable",
+					"objectClass": "Button",
+					"sid": 544245566721814,
+					"parameters": {
+						"instance-variable": "Role",
+						"comparison": 0,
+						"value": "\"start\""
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 160894115401459,
+					"parameters": {
+						"layout": "Main Screen"
+					}
+				}
+			],
+			"sid": 748475468967142
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-x",
+					"objectClass": "Kid",
+					"sid": 821457741698400,
+					"parameters": {
+						"comparison": 4,
+						"x-co-ordinate": "LayoutWidth + Kid.Width"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-x",
+					"objectClass": "Kid",
+					"sid": 604084993684743,
+					"parameters": {
+						"x": "Functions.LeftOfFirst"
+					}
+				}
+			],
+			"sid": 522495065570746
+		},
+		{
+			"functionName": "LeftOfFirst",
+			"functionDescription": "",
+			"functionCategory": "",
+			"functionReturnType": "number",
+			"functionCopyPicked": false,
+			"functionIsAsync": false,
+			"functionParameters": [],
+			"eventType": "function-block",
+			"conditions": [],
+			"actions": [],
+			"sid": 951914848992012,
+			"children": [
+				{
+					"eventType": "block",
+					"conditions": [
+						{
+							"id": "pick-nearestfurthest",
+							"objectClass": "Kid",
+							"sid": 870306174819031,
+							"parameters": {
+								"which": "furthest",
+								"x": "LayoutWidth * 10",
+								"y": "LayoutHeight / 2"
+							}
+						}
+					],
+					"actions": [
+						{
+							"id": "set-function-return-value",
+							"objectClass": "Functions",
+							"sid": 510808472834807,
+							"parameters": {
+								"value": "Kid.BBoxLeft - Kid.Width - 20"
+							}
+						}
+					],
+					"sid": 763946138644625
+				}
+			]
+		}
+	],
+	"sid": 294300109975984
+}

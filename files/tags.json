@@ -2,7 +2,7 @@
     "c2array": true,
     "size": [
         3,
-        172,
+        300,
         1
     ],
     "data": [
@@ -522,6 +522,390 @@
             ],
             [
                 "Toro sacro o Il campanile"
+            ],
+            [
+                ""
+            ],
+            [
+                "Agrigento"
+            ],
+            [
+                "Alessandria"
+            ],
+            [
+                "Ancona"
+            ],
+            [
+                "Aosta"
+            ],
+            [
+                "L'Aquila"
+            ],
+            [
+                "Arezzo"
+            ],
+            [
+                "Ascoli-Piceno"
+            ],
+            [
+                "Asti"
+            ],
+            [
+                "Avellino"
+            ],
+            [
+                "Bari"
+            ],
+            [
+                "Barletta-Andria-Trani"
+            ],
+            [
+                "Belluno"
+            ],
+            [
+                "Benevento"
+            ],
+            [
+                "Bergamo"
+            ],
+            [
+                "Biella"
+            ],
+            [
+                "Bologna"
+            ],
+            [
+                "Bolzano"
+            ],
+            [
+                "Brescia"
+            ],
+            [
+                "Brindisi"
+            ],
+            [
+                "Cagliari"
+            ],
+            [
+                "Caltanissetta"
+            ],
+            [
+                "Campobasso"
+            ],
+            [
+                "Carbonia Iglesias"
+            ],
+            [
+                "Caserta"
+            ],
+            [
+                "Catania"
+            ],
+            [
+                "Catanzaro"
+            ],
+            [
+                "Chieti"
+            ],
+            [
+                "Como"
+            ],
+            [
+                "Cosenza"
+            ],
+            [
+                "Cremona"
+            ],
+            [
+                "Crotone"
+            ],
+            [
+                "Cuneo"
+            ],
+            [
+                "Enna"
+            ],
+            [
+                "Fermo"
+            ],
+            [
+                "Ferrara"
+            ],
+            [
+                "Firenze"
+            ],
+            [
+                "Foggia"
+            ],
+            [
+                "Forlì-Cesena"
+            ],
+            [
+                "Frosinone"
+            ],
+            [
+                "Genova"
+            ],
+            [
+                "Gorizia"
+            ],
+            [
+                "Grosseto"
+            ],
+            [
+                "Imperia"
+            ],
+            [
+                "Isernia"
+            ],
+            [
+                "La Spezia"
+            ],
+            [
+                "Latina"
+            ],
+            [
+                "Lecce"
+            ],
+            [
+                "Lecco"
+            ],
+            [
+                "Livorno"
+            ],
+            [
+                "Lodi"
+            ],
+            [
+                "Lucca"
+            ],
+            [
+                "Macerata"
+            ],
+            [
+                "Mantova"
+            ],
+            [
+                "Massa-Carrara"
+            ],
+            [
+                "Matera"
+            ],
+            [
+                "Medio Campidano"
+            ],
+            [
+                "Messina"
+            ],
+            [
+                "Milano"
+            ],
+            [
+                "Modena"
+            ],
+            [
+                "Monza-Brianza"
+            ],
+            [
+                "Napoli"
+            ],
+            [
+                "Novara"
+            ],
+            [
+                "Nuoro"
+            ],
+            [
+                "Ogliastra"
+            ],
+            [
+                "Olbia Tempio"
+            ],
+            [
+                "Oristano"
+            ],
+            [
+                "Padova"
+            ],
+            [
+                "Palermo"
+            ],
+            [
+                "Parma"
+            ],
+            [
+                "Pavia"
+            ],
+            [
+                "Perugia"
+            ],
+            [
+                "Pesaro-Urbino"
+            ],
+            [
+                "Pescara"
+            ],
+            [
+                "Piacenza"
+            ],
+            [
+                "Pisa"
+            ],
+            [
+                "Pistoia"
+            ],
+            [
+                "Pordenone"
+            ],
+            [
+                "Potenza"
+            ],
+            [
+                "Prato"
+            ],
+            [
+                "Ragusa"
+            ],
+            [
+                "Ravenna"
+            ],
+            [
+                "Reggio-Calabria"
+            ],
+            [
+                "Reggio-Emilia"
+            ],
+            [
+                "Rieti"
+            ],
+            [
+                "Rimini"
+            ],
+            [
+                "Roma"
+            ],
+            [
+                "Rovigo"
+            ],
+            [
+                "Salerno"
+            ],
+            [
+                "Sassari"
+            ],
+            [
+                "Savona"
+            ],
+            [
+                "Siena"
+            ],
+            [
+                "Siracusa"
+            ],
+            [
+                "Sondrio"
+            ],
+            [
+                "Taranto"
+            ],
+            [
+                "Teramo"
+            ],
+            [
+                "Terni"
+            ],
+            [
+                "Torino"
+            ],
+            [
+                "Trapani"
+            ],
+            [
+                "Trento"
+            ],
+            [
+                "Treviso"
+            ],
+            [
+                "Trieste"
+            ],
+            [
+                "Udine"
+            ],
+            [
+                "Varese"
+            ],
+            [
+                "Venezia"
+            ],
+            [
+                "Verbania"
+            ],
+            [
+                "Vercelli"
+            ],
+            [
+                "Verona"
+            ],
+            [
+                "Vibo-Valentia"
+            ],
+            [
+                "Vicenza"
+            ],
+            [
+                "Viterbo"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
             ]
         ],
         [
@@ -1040,6 +1424,390 @@
             ],
             [
                 "Sar"
+            ],
+            [
+                ""
+            ],
+            [
+                "Sic"
+            ],
+            [
+                "Pie"
+            ],
+            [
+                "Mar"
+            ],
+            [
+                "Val"
+            ],
+            [
+                "Abr"
+            ],
+            [
+                "Tos"
+            ],
+            [
+                "Mar"
+            ],
+            [
+                "Pie"
+            ],
+            [
+                "Cam"
+            ],
+            [
+                "Pug"
+            ],
+            [
+                "Pug"
+            ],
+            [
+                "Ven"
+            ],
+            [
+                "Cam"
+            ],
+            [
+                "Lom"
+            ],
+            [
+                "Pie"
+            ],
+            [
+                "Emi"
+            ],
+            [
+                "Tre"
+            ],
+            [
+                "Lom"
+            ],
+            [
+                "Pug"
+            ],
+            [
+                "Sar"
+            ],
+            [
+                "Sic"
+            ],
+            [
+                "Mol"
+            ],
+            [
+                "Sar"
+            ],
+            [
+                "Cam"
+            ],
+            [
+                "Sic"
+            ],
+            [
+                "Cal"
+            ],
+            [
+                "Abr"
+            ],
+            [
+                "Lom"
+            ],
+            [
+                "Cal"
+            ],
+            [
+                "Lom"
+            ],
+            [
+                "Cal"
+            ],
+            [
+                "Pie"
+            ],
+            [
+                "Sic"
+            ],
+            [
+                "Mar"
+            ],
+            [
+                "Emi"
+            ],
+            [
+                "Tos"
+            ],
+            [
+                "Pug"
+            ],
+            [
+                "Emi"
+            ],
+            [
+                "Laz"
+            ],
+            [
+                "Lig"
+            ],
+            [
+                "Fri"
+            ],
+            [
+                "Tos"
+            ],
+            [
+                "Lig"
+            ],
+            [
+                "Mol"
+            ],
+            [
+                "Lig"
+            ],
+            [
+                "Laz"
+            ],
+            [
+                "Pug"
+            ],
+            [
+                "Lom"
+            ],
+            [
+                "Tos"
+            ],
+            [
+                "Lom"
+            ],
+            [
+                "Tos"
+            ],
+            [
+                "Mar"
+            ],
+            [
+                "Lom"
+            ],
+            [
+                "Tos"
+            ],
+            [
+                "Bas"
+            ],
+            [
+                "Sar"
+            ],
+            [
+                "Sic"
+            ],
+            [
+                "Lom"
+            ],
+            [
+                "Emi"
+            ],
+            [
+                "Lom"
+            ],
+            [
+                "Cam"
+            ],
+            [
+                "Pie"
+            ],
+            [
+                "Sar"
+            ],
+            [
+                "Sar"
+            ],
+            [
+                "Sar"
+            ],
+            [
+                "Sar"
+            ],
+            [
+                "Ven"
+            ],
+            [
+                "Sic"
+            ],
+            [
+                "Emi"
+            ],
+            [
+                "Lom"
+            ],
+            [
+                "Umb"
+            ],
+            [
+                "Mar"
+            ],
+            [
+                "Abr"
+            ],
+            [
+                "Emi"
+            ],
+            [
+                "Tos"
+            ],
+            [
+                "Tos"
+            ],
+            [
+                "Fri"
+            ],
+            [
+                "Bas"
+            ],
+            [
+                "Tos"
+            ],
+            [
+                "Sic"
+            ],
+            [
+                "Emi"
+            ],
+            [
+                "Cal"
+            ],
+            [
+                "Emi"
+            ],
+            [
+                "Laz"
+            ],
+            [
+                "Emi"
+            ],
+            [
+                "Laz"
+            ],
+            [
+                "Ven"
+            ],
+            [
+                "Cam"
+            ],
+            [
+                "Sar"
+            ],
+            [
+                "Lig"
+            ],
+            [
+                "Tos"
+            ],
+            [
+                "Sic"
+            ],
+            [
+                "Lom"
+            ],
+            [
+                "Pug"
+            ],
+            [
+                "Abr"
+            ],
+            [
+                "Umb"
+            ],
+            [
+                "Pie"
+            ],
+            [
+                "Sic"
+            ],
+            [
+                "Tre"
+            ],
+            [
+                "Ven"
+            ],
+            [
+                "Fri"
+            ],
+            [
+                "Fri"
+            ],
+            [
+                "Lom"
+            ],
+            [
+                "Ven"
+            ],
+            [
+                "Pie"
+            ],
+            [
+                "Pie"
+            ],
+            [
+                "Ven"
+            ],
+            [
+                "Cal"
+            ],
+            [
+                "Ven"
+            ],
+            [
+                "Laz"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
             ]
         ],
         [
@@ -1558,6 +2326,390 @@
             ],
             [
                 "roccia modellata dagli agenti atmosferici"
+            ],
+            [
+                ""
+            ],
+            [
+                "Sigla della provincia: AG"
+            ],
+            [
+                "Sigla della provincia: AL"
+            ],
+            [
+                "Sigla della provincia: AN"
+            ],
+            [
+                "Sigla della provincia: AO"
+            ],
+            [
+                "Sigla della provincia: AQ"
+            ],
+            [
+                "Sigla della provincia: AR"
+            ],
+            [
+                "Sigla della provincia: AP"
+            ],
+            [
+                "Sigla della provincia: AT"
+            ],
+            [
+                "Sigla della provincia: AV"
+            ],
+            [
+                "Sigla della provincia: BA"
+            ],
+            [
+                "Sigla della provincia: BT"
+            ],
+            [
+                "Sigla della provincia: BL"
+            ],
+            [
+                "Sigla della provincia: BN"
+            ],
+            [
+                "Sigla della provincia: BG"
+            ],
+            [
+                "Sigla della provincia: BI"
+            ],
+            [
+                "Sigla della provincia: BO"
+            ],
+            [
+                "Sigla della provincia: BZ"
+            ],
+            [
+                "Sigla della provincia: BS"
+            ],
+            [
+                "Sigla della provincia: BR"
+            ],
+            [
+                "Sigla della provincia: CA"
+            ],
+            [
+                "Sigla della provincia: CL"
+            ],
+            [
+                "Sigla della provincia: CB"
+            ],
+            [
+                "Sigla della provincia: CI"
+            ],
+            [
+                "Sigla della provincia: CE"
+            ],
+            [
+                "Sigla della provincia: CT"
+            ],
+            [
+                "Sigla della provincia: CZ"
+            ],
+            [
+                "Sigla della provincia: CH"
+            ],
+            [
+                "Sigla della provincia: CO"
+            ],
+            [
+                "Sigla della provincia: CS"
+            ],
+            [
+                "Sigla della provincia: CR"
+            ],
+            [
+                "Sigla della provincia: KR"
+            ],
+            [
+                "Sigla della provincia: CN"
+            ],
+            [
+                "Sigla della provincia: EN"
+            ],
+            [
+                "Sigla della provincia: FM"
+            ],
+            [
+                "Sigla della provincia: FE"
+            ],
+            [
+                "Sigla della provincia: FI"
+            ],
+            [
+                "Sigla della provincia: FG"
+            ],
+            [
+                "Sigla della provincia: FC"
+            ],
+            [
+                "Sigla della provincia: FR"
+            ],
+            [
+                "Sigla della provincia: GE"
+            ],
+            [
+                "Sigla della provincia: GO"
+            ],
+            [
+                "Sigla della provincia: GR"
+            ],
+            [
+                "Sigla della provincia: IM"
+            ],
+            [
+                "Sigla della provincia: IS"
+            ],
+            [
+                "Sigla della provincia: SP"
+            ],
+            [
+                "Sigla della provincia: LT"
+            ],
+            [
+                "Sigla della provincia: LE"
+            ],
+            [
+                "Sigla della provincia: LC"
+            ],
+            [
+                "Sigla della provincia: LI"
+            ],
+            [
+                "Sigla della provincia: LO"
+            ],
+            [
+                "Sigla della provincia: LU"
+            ],
+            [
+                "Sigla della provincia: MC"
+            ],
+            [
+                "Sigla della provincia: MN"
+            ],
+            [
+                "Sigla della provincia: MS"
+            ],
+            [
+                "Sigla della provincia: MT"
+            ],
+            [
+                "Sigla della provincia: VS"
+            ],
+            [
+                "Sigla della provincia: ME"
+            ],
+            [
+                "Sigla della provincia: MI"
+            ],
+            [
+                "Sigla della provincia: MO"
+            ],
+            [
+                "Sigla della provincia: MB"
+            ],
+            [
+                "Sigla della provincia: NA"
+            ],
+            [
+                "Sigla della provincia: NO"
+            ],
+            [
+                "Sigla della provincia: NU"
+            ],
+            [
+                "Sigla della provincia: OG"
+            ],
+            [
+                "Sigla della provincia: OT"
+            ],
+            [
+                "Sigla della provincia: OR"
+            ],
+            [
+                "Sigla della provincia: PD"
+            ],
+            [
+                "Sigla della provincia: PA"
+            ],
+            [
+                "Sigla della provincia: PR"
+            ],
+            [
+                "Sigla della provincia: PV"
+            ],
+            [
+                "Sigla della provincia: PG"
+            ],
+            [
+                "Sigla della provincia: PU"
+            ],
+            [
+                "Sigla della provincia: PE"
+            ],
+            [
+                "Sigla della provincia: PC"
+            ],
+            [
+                "Sigla della provincia: PI"
+            ],
+            [
+                "Sigla della provincia: PT"
+            ],
+            [
+                "Sigla della provincia: PN"
+            ],
+            [
+                "Sigla della provincia: PZ"
+            ],
+            [
+                "Sigla della provincia: PO"
+            ],
+            [
+                "Sigla della provincia: RG"
+            ],
+            [
+                "Sigla della provincia: RA"
+            ],
+            [
+                "Sigla della provincia: RC"
+            ],
+            [
+                "Sigla della provincia: RE"
+            ],
+            [
+                "Sigla della provincia: RI"
+            ],
+            [
+                "Sigla della provincia: RN"
+            ],
+            [
+                "Sigla della provincia: RM"
+            ],
+            [
+                "Sigla della provincia: RO"
+            ],
+            [
+                "Sigla della provincia: SA"
+            ],
+            [
+                "Sigla della provincia: SS"
+            ],
+            [
+                "Sigla della provincia: SV"
+            ],
+            [
+                "Sigla della provincia: SI"
+            ],
+            [
+                "Sigla della provincia: SR"
+            ],
+            [
+                "Sigla della provincia: SO"
+            ],
+            [
+                "Sigla della provincia: TA"
+            ],
+            [
+                "Sigla della provincia: TE"
+            ],
+            [
+                "Sigla della provincia: TR"
+            ],
+            [
+                "Sigla della provincia: TO"
+            ],
+            [
+                "Sigla della provincia: TP"
+            ],
+            [
+                "Sigla della provincia: TN"
+            ],
+            [
+                "Sigla della provincia: TV"
+            ],
+            [
+                "Sigla della provincia: TS"
+            ],
+            [
+                "Sigla della provincia: UD"
+            ],
+            [
+                "Sigla della provincia: VA"
+            ],
+            [
+                "Sigla della provincia: VE"
+            ],
+            [
+                "Sigla della provincia: VB"
+            ],
+            [
+                "Sigla della provincia: VC"
+            ],
+            [
+                "Sigla della provincia: VR"
+            ],
+            [
+                "Sigla della provincia: VV"
+            ],
+            [
+                "Sigla della provincia: VI"
+            ],
+            [
+                "Sigla della provincia: VT"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
             ]
         ]
     ]

@@ -1,7 +1,7 @@
 {
 	"projectFormatVersion": 1,
 	"savedWithRelease": 34400,
-	"name": "Italy Quiz",
+	"name": "Regioni d'Italia",
 	"runtime": "c3",
 	"useWorker": "auto",
 	"bundleAddons": false,
@@ -64,6 +64,13 @@
 		},
 		{
 			"type": "behavior",
+			"id": "Bullet",
+			"name": "Bullet",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
 			"id": "DragnDrop",
 			"name": "Drag & Drop",
 			"author": "Scirra",
@@ -89,6 +96,20 @@
 			"name": "Grayscale",
 			"author": "Scirra",
 			"bundled": false
+		},
+		{
+			"type": "effect",
+			"id": "vignette",
+			"name": "Vignette",
+			"author": "Brad Larson",
+			"bundled": false
+		},
+		{
+			"type": "effect",
+			"id": "water",
+			"name": "Water",
+			"author": "Viktor Korsun",
+			"bundled": false
 		}
 	],
 	"uniqueId": "5dx67jvkx5d",
@@ -101,7 +122,8 @@
 			"TagArea",
 			"Keyboard",
 			"Tags",
-			"AJAX"
+			"AJAX",
+			"TitleBackground"
 		],
 		"subfolders": [
 			{
@@ -138,10 +160,25 @@
 					"Label",
 					"Message",
 					"Victory",
-					"Hint"
+					"Hint",
+					"Title",
+					"Credits"
 				],
 				"subfolders": [],
 				"name": "UI"
+			},
+			{
+				"items": [
+					"GRETA",
+					"JOAQUIN",
+					"LUCA",
+					"MATTEO",
+					"MARIEM",
+					"MARIO",
+					"SARA"
+				],
+				"subfolders": [],
+				"name": "Kids"
 			}
 		]
 	},
@@ -163,19 +200,24 @@
 	],
 	"families": {
 		"items": [
-			"Region"
+			"Region",
+			"Kid"
 		],
 		"subfolders": []
 	},
 	"layouts": {
 		"items": [
-			"Main Screen"
+			"Main Screen",
+			"Title Screen",
+			"Credits Screen"
 		],
 		"subfolders": []
 	},
 	"eventSheets": {
 		"items": [
-			"Main Loop"
+			"Main Screen",
+			"Title Screen",
+			"Credits Screen"
 		],
 		"subfolders": []
 	},
@@ -300,7 +342,7 @@
 		"author": "",
 		"authorEmail": "",
 		"authorWebsite": "",
-		"appId": "",
+		"appId": "com.rossonerd.regioniditalia",
 		"pixelRounding": false,
 		"zAxisScale": "normalized",
 		"fov": 0.7853981633974483,
@@ -349,5 +391,5 @@
 	},
 	"viewportWidth": 1920,
 	"viewportHeight": 1080,
-	"firstLayout": null
+	"firstLayout": "Title Screen"
 }

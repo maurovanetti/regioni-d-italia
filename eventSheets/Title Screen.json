@@ -1,0 +1,68 @@
+{
+	"name": "Title Screen",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "Button",
+					"sid": 174707440969348
+				},
+				{
+					"id": "compare-instance-variable",
+					"objectClass": "Button",
+					"sid": 172757524270720,
+					"parameters": {
+						"instance-variable": "Role",
+						"comparison": 0,
+						"value": "\"credits\""
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 449196202574020,
+					"parameters": {
+						"layout": "Credits Screen"
+					}
+				}
+			],
+			"sid": 479279507479399
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "Button",
+					"sid": 855924390092159
+				},
+				{
+					"id": "compare-instance-variable",
+					"objectClass": "Button",
+					"sid": 715743812956975,
+					"parameters": {
+						"instance-variable": "Role",
+						"comparison": 0,
+						"value": "\"start\""
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 106116649274932,
+					"parameters": {
+						"layout": "Main Screen"
+					}
+				}
+			],
+			"sid": 671393526745765
+		}
+	],
+	"sid": 524780516594005
+}

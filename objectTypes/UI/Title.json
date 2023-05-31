@@ -1,0 +1,14 @@
+{
+	"name": "Title",
+	"plugin-id": "Text",
+	"sid": 312963232369935,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [
+		{
+			"effectId": "water",
+			"name": "Water"
+		}
+	]
+}

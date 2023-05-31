@@ -1,0 +1,37 @@
+{
+	"name": "SARA",
+	"plugin-id": "Sprite",
+	"sid": 602868389725639,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 300,
+						"height": 408,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 4942334,
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 267412716717314,
+				"name": "Default",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

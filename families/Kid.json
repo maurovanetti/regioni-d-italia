@@ -1,0 +1,23 @@
+{
+	"name": "Kid",
+	"plugin-id": "Sprite",
+	"sid": 426363849302215,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Bullet",
+			"name": "Bullet",
+			"sid": 142365616900823
+		}
+	],
+	"effectTypes": [],
+	"members": [
+		"GRETA",
+		"JOAQUIN",
+		"LUCA",
+		"MARIEM",
+		"MARIO",
+		"MATTEO",
+		"SARA"
+	]
+}
