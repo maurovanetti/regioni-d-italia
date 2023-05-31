@@ -1,5 +1,5 @@
 {
-	"name": "Event sheet 1",
+	"name": "Main Loop",
 	"events": [
 		{
 			"eventType": "variable",
@@ -302,6 +302,23 @@
 								"where": "in-front",
 								"object": "Tag"
 							}
+						},
+						{
+							"id": "move-to-object",
+							"objectClass": "Hint",
+							"sid": 303125716585688,
+							"parameters": {
+								"where": "in-front",
+								"object": "Tag"
+							}
+						},
+						{
+							"id": "set-visible",
+							"objectClass": "Hint",
+							"sid": 539490145920587,
+							"parameters": {
+								"visibility": "visible"
+							}
 						}
 					],
 					"sid": 237322783492710
@@ -435,7 +452,16 @@
 							"behaviorType": "DragDrop"
 						}
 					],
-					"actions": [],
+					"actions": [
+						{
+							"id": "set-visible",
+							"objectClass": "Hint",
+							"sid": 589721674076105,
+							"parameters": {
+								"visibility": "invisible"
+							}
+						}
+					],
 					"sid": 484641276608653,
 					"children": [
 						{
@@ -1096,13 +1122,33 @@
 								"start-index": "0",
 								"end-index": "Tags.Height - 1"
 							}
+						},
+						{
+							"id": "compare-two-values",
+							"objectClass": "System",
+							"sid": 271288395048489,
+							"parameters": {
+								"first-value": "Tags.At(0, loopindex)",
+								"comparison": 1,
+								"second-value": "\"\""
+							}
+						},
+						{
+							"id": "compare-two-values",
+							"objectClass": "System",
+							"sid": 197140413899527,
+							"parameters": {
+								"first-value": "Tags.At(1, loopindex)",
+								"comparison": 1,
+								"second-value": "\"\""
+							}
 						}
 					],
 					"actions": [
 						{
 							"id": "create-object",
 							"objectClass": "System",
-							"sid": 287285922930737,
+							"sid": 790907773424037,
 							"parameters": {
 								"object-to-create": "Tag",
 								"layer": "\"Tags\"",
@@ -1113,11 +1159,19 @@
 							}
 						},
 						{
+							"id": "set-default-color",
+							"objectClass": "Tag",
+							"sid": 406657074404914,
+							"parameters": {
+								"color": "rgbEx(random(80, 100), random(80, 100), random(80, 100))"
+							}
+						},
+						{
 							"id": "set-x",
 							"objectClass": "Label",
-							"sid": 485134970484150,
+							"sid": 348362431953715,
 							"parameters": {
-								"x": "Label.X + 20"
+								"x": "20"
 							}
 						},
 						{
@@ -1159,6 +1213,54 @@
 							"parameters": {
 								"where": "in-front",
 								"object": "Tag"
+							}
+						},
+						{
+							"id": "set-y",
+							"objectClass": "Hint",
+							"sid": 670985777465372,
+							"parameters": {
+								"y": "Label.Height + 5"
+							}
+						},
+						{
+							"id": "set-text",
+							"objectClass": "Hint",
+							"sid": 496892629823900,
+							"parameters": {
+								"text": "Tags.At(2, loopindex)"
+							}
+						},
+						{
+							"id": "pin-to-object-properties",
+							"objectClass": "Hint",
+							"sid": 286325194118899,
+							"behaviorType": "Pin",
+							"parameters": {
+								"pin-to": "Tag",
+								"x": true,
+								"y": true,
+								"angle": true,
+								"width-type": "absolute",
+								"height-type": "absolute",
+								"z": false
+							}
+						},
+						{
+							"id": "move-to-object",
+							"objectClass": "Hint",
+							"sid": 352080815499488,
+							"parameters": {
+								"where": "in-front",
+								"object": "Tag"
+							}
+						},
+						{
+							"id": "set-visible",
+							"objectClass": "Hint",
+							"sid": 866297442569458,
+							"parameters": {
+								"visibility": "invisible"
 							}
 						}
 					],

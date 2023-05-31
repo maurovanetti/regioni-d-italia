@@ -137,7 +137,8 @@
 					"Counter",
 					"Label",
 					"Message",
-					"Victory"
+					"Victory",
+					"Hint"
 				],
 				"subfolders": [],
 				"name": "UI"
@@ -148,6 +149,7 @@
 	"containers": [
 		{
 			"members": [
+				"Hint",
 				"Label",
 				"Tag"
 			]
@@ -167,13 +169,13 @@
 	},
 	"layouts": {
 		"items": [
-			"Layout 1"
+			"Main Screen"
 		],
 		"subfolders": []
 	},
 	"eventSheets": {
 		"items": [
-			"Event sheet 1"
+			"Main Loop"
 		],
 		"subfolders": []
 	},

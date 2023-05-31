@@ -36,6 +36,13 @@
 							]
 						},
 						"useCollisionPoly": true,
+						"imagePoints": [
+							{
+								"name": "Badge",
+								"x": 0.7048138056312443,
+								"y": 0.6306555863342567
+							}
+						],
 						"duration": 1
 					}
 				],
