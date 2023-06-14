@@ -1,6 +1,6 @@
 {
 	"projectFormatVersion": 1,
-	"savedWithRelease": 34400,
+	"savedWithRelease": 34402,
 	"name": "Regioni d'Italia",
 	"runtime": "c3",
 	"useWorker": "auto",
@@ -175,7 +175,9 @@
 					"MATTEO",
 					"MARIEM",
 					"MARIO",
-					"SARA"
+					"SARA",
+					"NOJUS",
+					"TIAGO"
 				],
 				"subfolders": [],
 				"name": "Kids"
@@ -245,57 +247,81 @@
 		"icon": {
 			"items": [
 				{
-					"name": "icon-16.png",
+					"name": "aid83-mtwij-001.png",
 					"type": "image/png",
-					"sid": 963249121645360,
+					"sid": 155271637040460,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
 				},
 				{
-					"name": "icon-32.png",
+					"name": "aid83-mtwij-002.png",
 					"type": "image/png",
-					"sid": 651462470387016,
+					"sid": 739859655446058,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
 				},
 				{
-					"name": "icon-64.png",
+					"name": "aid83-mtwij-003.png",
 					"type": "image/png",
-					"sid": 825634791440340,
+					"sid": 779482095676191,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
 				},
 				{
-					"name": "icon-128.png",
+					"name": "aid83-mtwij-004.png",
 					"type": "image/png",
-					"sid": 192484730234127,
+					"sid": 878417131935014,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
 				},
 				{
-					"name": "icon-256.png",
+					"name": "aid83-mtwij-005.png",
 					"type": "image/png",
-					"sid": 242096356011153,
+					"sid": 189642936909538,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
 				},
 				{
-					"name": "icon-512.png",
+					"name": "aid83-mtwij-006.png",
 					"type": "image/png",
-					"sid": 895707037106313,
+					"sid": 449673427242687,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
 				},
 				{
-					"name": "loading-logo.png",
+					"name": "aid83-mtwij-008.png",
 					"type": "image/png",
-					"sid": 136520572598899,
+					"sid": 500380665706623,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "aid83-mtwij-009.png",
+					"type": "image/png",
+					"sid": 770168872795100,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "aid83-mtwij-007.png",
+					"type": "image/png",
+					"sid": 680408070268345,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "aid83-mtwij-10.png",
+					"type": "image/png",
+					"sid": 619549016635167,
 					"icon-info": {
 						"purpose": "loading-logo"
 					}
@@ -338,7 +364,7 @@
 	},
 	"properties": {
 		"description": "",
-		"version": "1.0.0.0",
+		"version": "1.0.0.2",
 		"author": "",
 		"authorEmail": "",
 		"authorWebsite": "",
@@ -346,7 +372,7 @@
 		"pixelRounding": false,
 		"zAxisScale": "normalized",
 		"fov": 0.7853981633974483,
-		"useLoaderLayout": false,
+		"useLoaderLayout": true,
 		"fullscreenMode": "letterbox-scale",
 		"fullscreenQuality": "high",
 		"viewportFit": "auto",
@@ -382,7 +408,7 @@
 		"zNear": 1,
 		"zFar": 10000,
 		"maxSpriteSheetSize": 2048,
-		"loaderStyle": "splash",
+		"loaderStyle": "progress-logo",
 		"preloadSounds": true,
 		"cordovaiOSScheme": "app",
 		"cordovaAndroidScheme": "https",

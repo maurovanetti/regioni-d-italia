@@ -65,7 +65,7 @@
 					},
 					"world": {
 						"x": 2169,
-						"y": 524,
+						"y": 560,
 						"width": 300,
 						"height": 396,
 						"originX": 0.5,
@@ -106,7 +106,7 @@
 					},
 					"world": {
 						"x": 4006,
-						"y": 531,
+						"y": 567,
 						"width": 300,
 						"height": 435,
 						"originX": 0.5,
@@ -147,7 +147,7 @@
 					},
 					"world": {
 						"x": 2528,
-						"y": 531,
+						"y": 567,
 						"width": 300,
 						"height": 431,
 						"originX": 0.5,
@@ -188,7 +188,7 @@
 					},
 					"world": {
 						"x": 2908,
-						"y": 528,
+						"y": 564,
 						"width": 300,
 						"height": 428,
 						"originX": 0.5,
@@ -229,7 +229,7 @@
 					},
 					"world": {
 						"x": 3653,
-						"y": 545,
+						"y": 581,
 						"width": 300,
 						"height": 408,
 						"originX": 0.5,
@@ -270,7 +270,7 @@
 					},
 					"world": {
 						"x": 3292,
-						"y": 540,
+						"y": 576,
 						"width": 300,
 						"height": 419,
 						"originX": 0.5,
@@ -311,7 +311,7 @@
 					},
 					"world": {
 						"x": 4367,
-						"y": 529,
+						"y": 565,
 						"width": 300,
 						"height": 443,
 						"originX": 0.5,
@@ -329,7 +329,7 @@
 				{
 					"type": "Credits",
 					"properties": {
-						"text": "[b]Regioni d'Italia[/b] è stato fatto nel 2023\nda Greta, Joaquin, Luca, Mariem, Mario, Matteo, Sara\ne dalla maestra Roberta Biraghi con l'aiuto di Mauro Vanetti.",
+						"text": "[b]Regioni d'Italia[/b] è stato fatto nel 2023\nda Greta, Joaquin, Luca, Mariem, Mario,\nMatteo, Nojus, Sara, Tiago\ne dalla maestra Roberta Biraghi\ncon l'aiuto di Mauro Vanetti.",
 						"enable-bbcode": true,
 						"font": "Arial Rounded MT",
 						"size": 40,
@@ -359,6 +359,88 @@
 						"height": 275,
 						"originX": 0,
 						"originY": 0,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"angle": 0,
+						"zElevation": 0
+					}
+				},
+				{
+					"type": "NOJUS",
+					"properties": {
+						"initially-visible": true,
+						"initial-animation": "Default",
+						"initial-frame": 0,
+						"enable-collisions": true,
+						"live-preview": false
+					},
+					"uid": 52,
+					"instanceVariables": {},
+					"behaviors": {
+						"Bullet": {
+							"properties": {
+								"speed": 400,
+								"acceleration": 0,
+								"gravity": 0,
+								"bounce-off-solids": false,
+								"set-angle": true,
+								"step": false,
+								"enabled": true
+							}
+						}
+					},
+					"world": {
+						"x": 4741,
+						"y": 578,
+						"width": 300,
+						"height": 423,
+						"originX": 0.5,
+						"originY": 0.5,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"angle": 0,
+						"zElevation": 0
+					}
+				},
+				{
+					"type": "TIAGO",
+					"properties": {
+						"initially-visible": true,
+						"initial-animation": "Default",
+						"initial-frame": 0,
+						"enable-collisions": true,
+						"live-preview": false
+					},
+					"uid": 53,
+					"instanceVariables": {},
+					"behaviors": {
+						"Bullet": {
+							"properties": {
+								"speed": 400,
+								"acceleration": 0,
+								"gravity": 0,
+								"bounce-off-solids": false,
+								"set-angle": true,
+								"step": false,
+								"enabled": true
+							}
+						}
+					},
+					"world": {
+						"x": 5110,
+						"y": 572,
+						"width": 300,
+						"height": 412,
+						"originX": 0.5,
+						"originY": 0.5,
 						"color": [
 							1,
 							1,
